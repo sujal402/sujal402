@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sujal</h1>
-<h3 align="center">A IT student from india.</h3>
+<h3 align="center">IT student from india.</h3>
 
 <img align="right" alt="coding" width="400" src="http://www.triella.com/wp-content/uploads/2016/03/kidscode1.jpg">
 
