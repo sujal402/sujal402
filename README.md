@@ -1,5 +1,5 @@
 <h3>Sujal Khakhi</h3>
-<h4>interested in Compititive programming and Open source</h4>
+<h4>interested in programming and Open source</h4>
 <h4>like to work with computer and build something</h4>
 
 
