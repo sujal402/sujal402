@@ -1,15 +1,9 @@
 <h3>Sujal Khakhi</h3>
-<h4>Interested in programming and Open source</h4>
+<h4>Interested in programming</h4>
 <h4>Like to work with computer and build something</h4>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sujal402&label=Profile%20views&color=0e75b6&style=flat" alt="sujal402" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sujal402" alt="sujal402" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
