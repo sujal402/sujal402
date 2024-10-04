@@ -1,10 +1,5 @@
-<h3>Sujal Khakhi</h3>
 <h4>Interested in programming</h4>
 <h4>Like to work with computer and build something</h4>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sujal402&label=Profile%20views&color=0e75b6&style=flat" alt="sujal402" />
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
