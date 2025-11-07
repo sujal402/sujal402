@@ -1,6 +1,23 @@
 <h4>Full Stack Developer | Exploring System Design, AI & ML</h4>
 <h4>Open to learning new technologies and working across any language or stack</h4>
 
+<h3 align="left">💼 Programming Profiles</h3>
+<p align="left">
+  <a href="https://leetcode.com/sujal01/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" width="60" height="60" style="margin: 0 30px;"/>
+  </a>
+  <a href="https://codeforces.com/profile/Sujal12" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/512px-Codeforces_logo.svg.png" 
+         alt="Codeforces" width="120" height="60" style="margin: 0 30px;"/>
+  </a>
+  <a href="https://www.codechef.com/users/sujal_khakhi12" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/512px-CodeChef_Logo.svg.png" 
+         alt="CodeChef" width="120" height="60" style="margin: 0 30px;"/>
+  </a>
+</p>
+
+
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
