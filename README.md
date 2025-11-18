@@ -1,5 +1,4 @@
 <h4>Full Stack Developer | Exploring System Design, AI & ML</h4>
-<h4>Open to learning new technologies and working across any language or stack</h4>
 
 <h3 align="left">💼 Programming Profiles</h3>
 <p align="left">
